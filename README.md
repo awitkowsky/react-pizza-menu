@@ -37,7 +37,7 @@ Projekt wykonany w ramach kursu **"The Ultimate React Course 2025"** autorstwa J
 
 ## 🚀 Live demo
 
-🌐 *Link do wersji live (do uzupełnienia)*
+🌐 [awitkowsky-react-pizza-menu.netlify.app](https://awitkowsky-react-pizza-menu.netlify.app/)
 
 ---
 
