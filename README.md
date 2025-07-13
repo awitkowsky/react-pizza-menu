@@ -29,7 +29,10 @@ Projekt wykonany w ramach kursu **"The Ultimate React Course 2025"** autorstwa J
 
 ## 📸 Podgląd
 
-📷 *Zrzut ekranu – do dodania później*
+<p align="center">
+  <img src="screenshots/ss_1.jpg" width="98%" />
+
+</p>
 
 ---
 
